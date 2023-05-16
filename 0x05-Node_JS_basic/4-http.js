@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const http = require('http');
 
 // Create the HTTP server
@@ -16,6 +15,3 @@ const port = 1245;
 app.listen(port, hostname, () => {
 });
 module.exports = app;
-=======
-hh
->>>>>>> f3c368425e1799349624dd2f828c42998cdaef47
